@@ -1,4 +1,5 @@
 pip install pillow
+
 from PIL import Image
 import numpy as np
 
